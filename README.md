@@ -1,4 +1,2 @@
-# first-demo
-This is my first Repository
-<br>
-Author - Aman Bhagat(ab)
+# Second Game
+This is my Second Game Drum Kit
